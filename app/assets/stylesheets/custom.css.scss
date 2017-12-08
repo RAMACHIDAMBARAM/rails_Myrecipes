@@ -44,11 +44,13 @@ $navbar-default-bg: #073B15;
 
 .btn-xlarge{
   background-color: #073B15;
+  color: #fff;
   
 }
 
 .btn-xlarge:hover{
   color: #fff;
+  background-color: #6495ED;
   text-decoration: none;
   
 }
@@ -68,4 +70,19 @@ footer{
 footer:hover{
   color: #073B15;
   background-color: #fff;
+}
+
+.description{
+  margin-top: 0;
+}
+.well a {
+  color:#073B15 ;
+}
+
+.chef_info{
+  margin-top: 10px;
+}
+
+.colormatch a {
+  color:#073B15 ;
 }
